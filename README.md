@@ -2,7 +2,7 @@
 ### Bem-vindo ao meu perfil GitHub 👋
 
 - 📫 Como entrar em contato comigo: aquilesvelox@gmail.com
-- ⚡ Curiosidade: Aprendendo sobre programação.
+- ⚡ Curiosidade: Amo ir a igreja, amo futebol e estou adorando aprender sobre programacao
 
 ### Estou aprendendo
 
